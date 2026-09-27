@@ -16,4 +16,4 @@ int main()
     printf("HCF of %d and %d is %d\n", no1, no2, hcf);
 
     return 0;
-}
+} 
